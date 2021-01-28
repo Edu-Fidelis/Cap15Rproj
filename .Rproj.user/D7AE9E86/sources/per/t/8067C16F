@@ -1,0 +1,32 @@
+{
+    "id": "8067C16F",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608315151675.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "dados_treino",
+        "caption": "dados_treino",
+        "totalObservations": 22242,
+        "displayedObservations": 22242,
+        "variables": 24,
+        "cacheKey": "46038FDB",
+        "object": "dados_treino",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=dados_treino&cache_key=46038FDB&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6870594518922567712,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608315151675,
+    "read_only": false,
+    "read_only_alternatives": []
+}

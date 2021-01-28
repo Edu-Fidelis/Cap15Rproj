@@ -1,0 +1,32 @@
+{
+    "id": "FA73C583",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608315006478.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "dados_clientes",
+        "caption": "dados_clientes",
+        "totalObservations": "29655",
+        "displayedObservations": "29655",
+        "variables": "24",
+        "cacheKey": "F0D59C51",
+        "object": "dados_clientes",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=dados_clientes&cache_key=F0D59C51&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7019250824563081588,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608315006478,
+    "read_only": false,
+    "read_only_alternatives": []
+}
